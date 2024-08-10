@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+./build.sh
+
+clear
+
+exec ./build/Game
